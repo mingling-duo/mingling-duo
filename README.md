@@ -1,7 +1,9 @@
 
 <p align="center">
 kadenㅤouㅤdaxter
+</p>
 
-  remakingㅤsoon
-  </a>
+
+<p align="center">
+remakingㅤthis
 </p>
